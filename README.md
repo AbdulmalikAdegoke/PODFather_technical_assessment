@@ -13,6 +13,7 @@ The functionalities to be included in the app: a search function, a filter funct
 - Filter options
 ### Could have
 - Graph visualisation
+- Suggestive options for the search based on the chosen filter
 
 ### Requirements for this solution:
 - HTML, CSS, JavaScript, JSON, AJAX
